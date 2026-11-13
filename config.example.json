@@ -1,0 +1,6 @@
+{
+  "PARSE_APP_ID": "your-application-id",
+  "PARSE_CLIENT_KEY": "your-client-key",
+  "PARSE_SERVER_URL": "https://pg-app-xxxxxxxx.scalabl.cloud/1/",
+  "PARSE_LIVE_QUERY_URL": ""
+}
